@@ -1,2 +1,0 @@
-# AllMovie
-Movie App
